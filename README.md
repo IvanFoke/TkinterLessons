@@ -1,2 +1,2 @@
 # TkinterLessons
- Code from tkinter lessons
+ Code from tkinter lessons.
